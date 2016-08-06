@@ -1,0 +1,279 @@
+# Copyright (C) 2016 WooThemes
+# This file is distributed under the same license as the WooCommerce Brands package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Brands 1.4.5\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2016-08-05 20:23-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-08-05 20:33-0400\n"
+"Language-Team: ARSENEAULT Consultation <info@arseneault.ca>\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: ARSENEAULT Consultation <info@arseneault.ca>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: classes/class-wc-brands-admin.php:31 classes/class-wc-brands.php:338
+#: classes/class-wc-brands.php:340
+#: classes/widgets/class-wc-widget-brand-nav.php:281
+msgid "Brands"
+msgstr "Marques"
+
+#: classes/class-wc-brands-admin.php:88
+msgid "Product brands"
+msgstr "Marques de produits"
+
+#: classes/class-wc-brands-admin.php:89
+#: classes/widgets/class-wc-widget-brand-nav.php:93
+msgid "Any brand"
+msgstr "Toutes les marques"
+
+#: classes/class-wc-brands-admin.php:98
+msgid ""
+"A product must be associated with this brand for the coupon to remain valid "
+"or, for \"Product Discounts\", products with these brands will be discounted."
+msgstr ""
+
+#: classes/class-wc-brands-admin.php:103
+msgid "Exclude brands"
+msgstr "Exclure marques"
+
+#: classes/class-wc-brands-admin.php:104
+msgid "No brands"
+msgstr "Aucune marque"
+
+#: classes/class-wc-brands-admin.php:113
+msgid ""
+"Product must not be associated with these brands for the coupon to remain "
+"valid or, for \"Product Discounts\", products associated with these brands "
+"will not be discounted."
+msgstr ""
+
+#: classes/class-wc-brands-admin.php:142
+msgid "Brands Archives"
+msgstr "Archive des marques"
+
+#: classes/class-wc-brands-admin.php:145
+msgid "Show description"
+msgstr "Afficher description"
+
+#: classes/class-wc-brands-admin.php:146
+msgid ""
+"Choose to show the brand description on the archive page. Turn this off if "
+"you intend to use the description widget instead."
+msgstr ""
+
+#: classes/class-wc-brands-admin.php:201 classes/class-wc-brands-admin.php:278
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: classes/class-wc-brands-admin.php:205 classes/class-wc-brands-admin.php:283
+msgid "Upload/Add image"
+msgstr "Téléverser/Ajouter image"
+
+#: classes/class-wc-brands-admin.php:206 classes/class-wc-brands-admin.php:284
+msgid "Remove image"
+msgstr "Enlever image"
+
+#: classes/class-wc-brands-admin.php:231 classes/class-wc-brands-admin.php:309
+msgid "Choose an image"
+msgstr "Choisissez une image"
+
+#: classes/class-wc-brands-admin.php:233 classes/class-wc-brands-admin.php:311
+msgid "Use image"
+msgstr "Utiliser image"
+
+#: classes/class-wc-brands-admin.php:354
+msgid ""
+"Brands be added and managed from this screen. You can optionally upload a "
+"brand image to display in brand widgets and on brand archives"
+msgstr ""
+
+#: classes/class-wc-brands-admin.php:376
+msgid "Image"
+msgstr "Image"
+
+#: classes/class-wc-brands-admin.php:438
+msgid "Select a brand"
+msgstr "Choisissez une marque"
+
+#: classes/class-wc-brands.php:116
+msgid "Sorry, this coupon is not applicable to the brands: %s."
+msgstr ""
+
+#: classes/class-wc-brands.php:341
+msgid "Brand"
+msgstr "Marque"
+
+#: classes/class-wc-brands.php:342
+msgid "Search Brands"
+msgstr "Recherche des marques"
+
+#: classes/class-wc-brands.php:343
+msgid "All Brands"
+msgstr "Toutes les marques"
+
+#: classes/class-wc-brands.php:344
+msgid "Parent Brand"
+msgstr "Marque parent"
+
+#: classes/class-wc-brands.php:345
+msgid "Parent Brand:"
+msgstr "Marque parent :"
+
+#: classes/class-wc-brands.php:346
+msgid "Edit Brand"
+msgstr "Modifier marque"
+
+#: classes/class-wc-brands.php:347
+msgid "Update Brand"
+msgstr "Mises-à-jour de la marque"
+
+#: classes/class-wc-brands.php:348
+msgid "Add New Brand"
+msgstr "Ajouter nouvelle marque"
+
+#: classes/class-wc-brands.php:349
+msgid "New Brand Name"
+msgstr "Nouvelle marque"
+
+#: classes/class-wc-brands.php:362
+msgid "brand"
+msgstr "marque"
+
+#: classes/widgets/class-wc-widget-brand-description.php:24
+msgid "WooCommerce Brand Description"
+msgstr "Description de WooCommerce Brand"
+
+#: classes/widgets/class-wc-widget-brand-description.php:25
+msgid "When viewing a brand archive, show the current brands description."
+msgstr ""
+
+#: classes/widgets/class-wc-widget-brand-description.php:70
+#: classes/widgets/class-wc-widget-brand-nav.php:303
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:114
+msgid "Title:"
+msgstr "Titre :"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:25
+msgid ""
+"Shows brands in a widget which lets you narrow down the list of products "
+"when viewing products."
+msgstr ""
+
+#: classes/widgets/class-wc-widget-brand-nav.php:27
+msgid "WooCommerce Brand Layered Nav"
+msgstr ""
+
+#: classes/widgets/class-wc-widget-brand-nav.php:306
+msgid "Display Type:"
+msgstr "Type d’affichage :"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:308
+msgid "List"
+msgstr "Liste"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:309
+msgid "Dropdown"
+msgstr "Sélection"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:24
+msgid "WooCommerce Brand Thumbnails"
+msgstr "Miniatures de WooCommerce Brands"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:25
+msgid "Show a grid of brand thumbnails."
+msgstr "Montrer une grille des miniatures des marques"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:119
+msgid "Columns:"
+msgstr "Colonnes :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:124
+msgid "Fluid columns:"
+msgstr "Colonnes fluides :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:129
+msgid "Number:"
+msgstr "Nombre :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:130
+msgid "All"
+msgstr "Toutes"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:134
+msgid "Exclude:"
+msgstr "Exclure :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:135
+msgid "None"
+msgstr "Aucune"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:139
+msgid "Hide empty brands:"
+msgstr "Cacher marques vides :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:141
+msgid "Yes"
+msgstr "Oui"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:142
+msgid "No"
+msgstr "Non"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:147
+msgid "Order by:"
+msgstr "Ordonner par :"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:149
+msgid "Name"
+msgstr "Nom"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:150
+msgid "Count"
+msgstr "Compte"
+
+#: templates/shortcodes/brands-a-z.php:35
+msgid "&uarr; Top"
+msgstr "&uarr; Haut"
+
+#: woocommerce-brands.php:76
+msgid "Docs"
+msgstr "Documents"
+
+#: woocommerce-brands.php:79
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-brands.php:82
+msgid "Changelog"
+msgstr "Journal des changements"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Brands"
+msgstr "WooCommerce Brands"
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/brands/"
+msgstr "http://woothemes.com/products/brands/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add brands to your products, as well as widgets and shortcodes for "
+"displaying your brands."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr "http://woothemes.com/"
+
+#: classes/class-wc-brands.php:66
+msgctxt "slug"
+msgid "uncategorized"
+msgstr ""
